@@ -23,9 +23,7 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png",
-      "bundler": "metro"
-    },
-    "platforms": ["ios", "android", "web"]
+      "favicon": "./assets/favicon.png"
+    }
   }
 }
